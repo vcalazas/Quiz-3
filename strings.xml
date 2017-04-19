@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quis Vitor Gabriel Calazas Dalmolin</string>
+
+    <!-- enunciados -->
+
+    <string name="q1">Qual das opções abaixo não contém um sistema operacional?</string>
+    <string name="q2">O que é uma instância?</string>
+    <string name="q3">Qual dos sistemas abaixo é mais utilizado pelos aparelhos mobile?</string>
+    <string name="q4">O que é um método construtor?</string>
+    <string name="q5">O que é polimorfismo?</string>
+</resources>
